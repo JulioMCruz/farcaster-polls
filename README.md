@@ -10,7 +10,6 @@ so the votes cannot be spoofed (if `HUB_URL` is provided), and the results are s
 
 - [https://fc-polls.vercel.app/](https://fc-polls.vercel.app/)
 
-
 ## Setup
 - After deploying your repo to Vercel...
 - Create a `kv` database `https://vercel.com/<name>/<project>/stores`
